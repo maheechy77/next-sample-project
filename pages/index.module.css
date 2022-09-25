@@ -1,0 +1,13 @@
+.flex {
+  display: flex;
+  gap: 32px;
+  flex-wrap: wrap;
+}
+
+.flexChild {
+  display: flex;
+  gap: 6px;
+  align-items: center;
+  border: 2px white solid;
+  padding: 2px 10px;
+}
